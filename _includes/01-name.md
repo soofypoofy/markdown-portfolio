@@ -1,3 +1,4 @@
-# Laura's Projects
-## Healthcare Accessibility
-## Psychology 
+# Projects
+## Social Media
+## Photography
+## Video Projects 
